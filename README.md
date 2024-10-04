@@ -6,4 +6,18 @@
 안녕하세요, 김혜정입니다 💖
 
 ## SKILLS
-**Lang and Frameworks**
+**Lang and Frameworks**  
+
+![Static Badge](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=%23f0f8ff)
+![Static Badge](https://img.shields.io/badge/mysql-%234479A1?logo=mysql&logoColor=%23f0f8ff)
+![slack](https://img.shields.io/badge/slack-4A154B?logo=slack)
+![Static Badge](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=%23f0f8ff)
+![Static Badge](https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=%23f0f8ff)<br>
+![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?logo=jupyter&logoColor=%23f0f8ff)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?logo=git&logoColor=%23f0f8ff)
+![Static Badge](https://img.shields.io/badge/github-%23181717?logo=github&logoColor=%23f0f8ff)
+![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=%23f0f8ff)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haezeong&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![haezeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=haezeong&show_icons=true&theme=dracula)
