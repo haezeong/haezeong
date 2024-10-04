@@ -29,6 +29,7 @@
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?logo=googlecolab&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B?logo=slack)<br>
+![figma](https://img.shields.io/badge/figma-%23F24E1E?logo=figma&logoColor=%23f0f8ff)
 ![plotly](https://img.shields.io/badge/plotly-3F4F75?logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-008080?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-3776AB?logo=python&logoColor=white)  <br>
